@@ -1,0 +1,230 @@
+/*
+*/
+#wrapper
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    font-family: sans-serif;
+    color: #383838;
+}
+
+#registerheader
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+p
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+#wikiimage
+{
+    max-width: 200px;
+    max-height: 300px;
+}
+
+#editorfield
+{
+    width: 70%;
+    height: 500px;
+}
+
+
+#menubar 
+{
+    background-color: #5BC1DE;
+    width: 15%;
+    height: 105%;
+    margin-top: -25px;
+    min-width: 225px;
+    max-width: 300px;
+    margin-left: -25px;
+    position: fixed;
+    border-right: solid;
+    border-right-color: #1993B6;
+}
+
+#menuloginsection
+{
+    margin-top:20%;
+    margin-left: 20%;
+    box-sizing: border-box;
+}
+
+#menutopwrapper
+{
+    margin-top: -20%;
+    height: 100px;
+    position: relative;
+}
+
+#maincontent
+{
+    margin-left: 300px;
+}
+
+.menubutton
+{
+    background-color: #85D5EC;
+    width: 98.8%;
+    min-height: 50px;
+    height: 7%;
+    position: relative;
+    text-align: center;
+    font-size: 24px;
+    font-family: sans-serif;
+    border: solid;
+    border-color: #1993B6;
+    border-radius: 10px;
+    line-height: 60px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.pageend
+{
+    text-align: center;
+    margin-right: 50px;
+}
+
+#wikigentitle
+{
+    font-size: 60px;
+    margin: 15px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+#wikigenfield
+{
+    min-height: 600px;
+}
+
+#wikigencontent
+{
+    margin-right: 50px;
+    
+}
+
+a
+{
+    text-decoration: none;
+    color: #412662;
+}
+
+#menusearch
+{
+    margin-left: 20%;
+    z-index: 1000;
+}
+
+#loggeduser
+{
+    margin-left: 20%;
+    margin-top: 20%;
+}
+
+#logoutbutton
+{
+    margin-left: 20%;
+    margin-bottom: 5%;
+}
+
+#menusearch
+{
+    background-color: #85D5EC;
+    position: absolute;
+    z-index: 1000;
+    margin-left: 100%;
+    margin-top: -27%;
+    border: solid;
+    border-color: #1993B6;
+    padding: 0px;
+    display: none;
+}
+
+#menulogindiv
+{
+    background-color: #85D5EC;
+    position: absolute;
+    margin-left: 100%;
+    margin-top: -27%;
+    border: solid;
+    border-color: #1993B6;
+    padding: 0px;
+    display: none;
+}
+
+#regbutton
+{
+}
+
+#registerbutton
+{
+    background-color: azure;
+    border: solid;
+    border-color: silver;
+    border-width: thin;
+    display: inline-block;
+    width: 30%;
+}
+
+.menutextcolor
+{
+    color: #412662;
+}
+
+.titlefield
+{
+    width: 30%;
+    min-width: 300px;
+    height: 43px;
+    font-size: 30px;
+}
+
+#editorfield
+{
+    height: 500px;
+    resize: none;
+}
+
+.searchtagsfield
+{
+    display:absolute;
+    margin-left:85%;
+    margin-top:-20%;
+    min-width: 100px;
+    max-width: 150px;
+    min-height: 100px;
+    max-height: 150px;
+    position: relative;
+}
+
+.editorgenfield
+{
+min-height: 650px;
+height: 650px;
+}
+
+input 			
+{ 			
+    margin-top: 5px; 			
+    margin-bottom: 5px; 			
+}
+
+
+.somethingsolver
+{
+    height: 100%;
+}
+
+.commitbutton
+{
+    position:relative;
+    margin-top: 120px;
+}
